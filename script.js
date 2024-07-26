@@ -1,4 +1,5 @@
 const assignments = [
+	{ title: "Intro Management", detail: "Printed Assignment", date: "2024-07-28", description: `<ul><li>what is managemnent</li></ul><br/><b>required</b></br><ul><li>printed form A4</li></ul>` },
 	{ title: "Computer Graphics", detail: "MCQ question", date: "2024-07-31", description: `<p>create 10 mcq question form chapter 2` },
 ];
 const today = dayjs();
