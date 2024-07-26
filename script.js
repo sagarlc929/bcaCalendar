@@ -7,7 +7,7 @@ const assignments = [
 		`<p>Home or landing page for the ecommerce with all the things mentioned/discussed in class</p>`
 	},
 	{ title: "Computer Graphics", detail: "MCQ question", date: "2024-07-31", description: `<p>create 10 mcq question form chapter 2</p>` },
-	{ title: "Computer Graphics", detail: "Assignment Copy", date: "2024-07-31", description: `<p>All the numerical question from the sir's presentation into a copie</p>` },
+	{ title: "Computer Graphics", detail: "Assignment Copy", date: "2024-07-31", description: `<p>Solution of all numerical question from the sir's presentation into a copie.</p>` },
 ];
 const today = dayjs();
 const startDate = today.subtract(5, "day");
