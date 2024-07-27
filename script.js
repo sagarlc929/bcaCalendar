@@ -1,6 +1,6 @@
 const assignments = [
 	{ title: "Intro Management", detail: "Printed Assignment", date: "2024-07-28", description: 
-		`<h4>Questions:</h4><ol><li>What is management?</li><li>Discuss the function of management.</li><li>Define the scientific management.</li><li>Explain the major contribution made by F.W Taylor.</li><li>Planning is the head and controlling is the tail.</li><li>What do you mean by planning? Write it's importance.</li><li>Discuss the features of planning.</li><li>Discuss the different types of planes.</li><li>Discuss the major tools for planning.</li><li>The success of modern organisations largely depends on the effective formulation and implementation of planning. Elaborate this statement.</li></ol><h4>Required format:</h4><p>printed hard copy</p>`
+		`<h4>Questions:</h4><ol><li>What is management?</li><li>Discuss the function of management.</li><li>Define the scientific management.</li><li>Explain the major contribution made by F.W Taylor.</li><li>Planning is the head and controlling is the tail. Explain it.</li><li>What do you mean by planning? Write it's importance.</li><li>Discuss the features of planning.</li><li>Discuss the different types of plans.</li><li>Discuss the major tools for planning.</li><li>The success of modern organisations largely depends on the effective formulation and implementation of planning. Elaborate this statement.</li></ol><h4>Required format:</h4><p>printed hard copy</p>`
 
 	},
 	{ title: "Mis E-commerce", detail: "Ecommerce home page", date: "2024-07-30", description: 
