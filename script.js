@@ -8,6 +8,7 @@ const assignments = [
 	},
 	{ title: "Computer Graphics", detail: "MCQ question", date: "2024-07-31", description: `<p>create 10 mcq question form chapter 2</p>` },
 	{ title: "Computer Graphics", detail: "Assignment Copy", date: "2024-08-07", description: `<p>Solution of all numerical question from the sir's presentation into a copie.</p>` },
+	{ title: "Computer Graphics", detail: "Questions Answer", date: "2024-08-07", description: `<p>Solution of all following</p><div><a href="./asset/graphics/19questions/pic1.jpg"><img style="max-width:100%; height:auto;" src="./asset/graphics/19questions/pic1.jpg" /></a><a href="./asset/graphics/19questions/pic2.jpg"><img style="max-width:100%; height:auto;" src="./asset/graphics/19questions/pic2.jpg" /></a></div>` },
 ];
 const today = dayjs();
 const startDate = today.subtract(5, "day");
