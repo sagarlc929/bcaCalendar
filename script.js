@@ -6,7 +6,7 @@ const assignments = [
 	{ title: "Mis E-commerce", detail: "Ecommerce home page", date: "2024-07-30", description: 
 		`<p>Home or landing page for the ecommerce with all the things mentioned/discussed in class</p>`
 	},
-	{ title: "Computer Graphics", detail: "MCQ question", date: "2024-07-31", description: `<p>create 10 mcq question form unit 1.<a href="https://drive.google.com/file/d/1gEMQANKvpxvXFMl9EAV7nYG4CJjzpKsm/view">syllabus</a></p>` },
+	{ title: "Computer Graphics", detail: "MCQ question", date: "2024-07-31", description: `<p>create 10 mcq question form unit 1.<a href="https://drive.google.com/file/d/1gEMQANKvpxvXFMl9EAV7nYG4CJjzpKsm/view" target="_blank" >syllabus</a></p>` },
 	{ title: "Computer Graphics", detail: "Assignment Copy", date: "2024-08-07", description: `<p>Solution of all numerical question from the sir's presentation into a copie.</p>` },
 	{ title: "Computer Graphics", detail: "Questions Answer", date: "2024-08-07", description: `<p>Solution of all following</p><div><a href="./asset/graphics/19questions/pic1.jpg"><img style="max-width:100%; height:auto;" src="./asset/graphics/19questions/pic1.jpg" /></a><a href="./asset/graphics/19questions/pic2.jpg"><img style="max-width:100%; height:auto;" src="./asset/graphics/19questions/pic2.jpg" /></a></div>` },
 ];
